@@ -1,0 +1,4 @@
+The Value Chain
+Developed by Michael Porter and used throughout the world for nearly 30 years, the value chain is a powerful tool for disaggregating a company into its strategically relevant activities in order to focus on the sources of competitive advantage, that is, the specific activities that result in higher prices or lower costs.
+
+A company’s value chain is typically part of a larger value system that includes companies either upstream (suppliers) or downstream (distribution channels), or both. This perspective about how value is created forces managers to consider and see each activity not just as a cost, but as a step that has to add some increment of value to the finished product or service.

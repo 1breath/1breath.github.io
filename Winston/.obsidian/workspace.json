@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "aa2795c8dc6029d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6beb010208b00863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a61c678ca6fa29",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vi, Vim学习.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "60fd6452d686fa53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202302121851.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a6dbc18462d5863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Python/数据类型与变量.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c30077392290ab12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Python/学习策略.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f49b204587ac8d67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Python/学习策略.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a95f20327f75c442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Python/数据类型与变量.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d446d92502755fec",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc5152defeb1dd89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bae1cc9b88994c82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b5857e78c493df1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "2cd93f0100b06533",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "数据类型",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "88a3c37d8c5dc758",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc3e5b9606ef171e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccddeebd385937e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202302121851.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b75eb93f2d03395",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "202302121851.md"
+              }
+            }
+          },
+          {
+            "id": "3dce905f427ca00d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e34ade85029a0ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "202302121851.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "60fd6452d686fa53",
+  "lastOpenFiles": [
+    "2023-02-12.md",
+    "未命名 2.canvas",
+    "Vi, Vim学习.md",
+    "Learning/Python/语法.md",
+    "Learning/Python/运算符.md",
+    "Learning/Python/数据类型与变量.md",
+    "Learning/Python/学习策略.md",
+    "未命名 5.md",
+    "Learning/Python/面向对象编程.md",
+    "Innovation/创业笔记本/项目：创业清单/项目描述.md"
+  ]
+}
