@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "60fd6452d686fa53",
+            "id": "71da3597102bea7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202302121851.md",
+                "file": "Learning/Python/面向对象编程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,51 +36,12 @@
             }
           },
           {
-            "id": "3a6dbc18462d5863",
+            "id": "fedf01e3467c208a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Python/数据类型与变量.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c30077392290ab12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Python/学习策略.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f49b204587ac8d67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Python/学习策略.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a95f20327f75c442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Python/数据类型与变量.md",
+                "file": "Learning/Python/推导式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "数据类型",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +103,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200.5,
-    "collapsed": true
+    "width": 200.5
   },
   "right": {
     "id": "88a3c37d8c5dc758",
@@ -164,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202302121851.md",
+                "file": "Learning/Python/推导式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202302121851.md"
+                "file": "Learning/Python/推导式.md"
               }
             }
           },
@@ -202,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202302121851.md",
+                "file": "Learning/Python/推导式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,17 +188,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "60fd6452d686fa53",
+  "active": "fedf01e3467c208a",
   "lastOpenFiles": [
-    "2023-02-12.md",
-    "未命名 2.canvas",
-    "Vi, Vim学习.md",
-    "Learning/Python/语法.md",
-    "Learning/Python/运算符.md",
-    "Learning/Python/数据类型与变量.md",
-    "Learning/Python/学习策略.md",
-    "未命名 5.md",
     "Learning/Python/面向对象编程.md",
-    "Innovation/创业笔记本/项目：创业清单/项目描述.md"
+    "Learning/Python/语法.md",
+    "Learning/Python/数据类型与变量.md",
+    "Social Capital.md",
+    "Innovation/Cases 案例/安全带的发明.md",
+    "Vi, Vim学习.md",
+    "`.md",
+    "笔记/网读/杂记.md",
+    "Learning/Python/学习策略.md",
+    "未命名 3.canvas"
   ]
 }
