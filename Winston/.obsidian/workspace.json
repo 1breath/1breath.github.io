@@ -54,12 +54,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "条件、循环与迭代.md",
+                "file": "Entrepreneurship/EnPr_2023-01-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "b16d5c9b4447d21e"
           }
         ],
         "currentTab": 3
@@ -120,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 380.5
   },
   "right": {
     "id": "88a3c37d8c5dc758",
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "条件、循环与迭代.md",
+                "file": "Entrepreneurship/EnPr_2023-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,8 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
+            },
+            "group": "b16d5c9b4447d21e"
           },
           {
             "id": "6b75eb93f2d03395",
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "条件、循环与迭代.md"
+                "file": "Entrepreneurship/EnPr_2023-01-28.md"
               }
             }
           },
@@ -174,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "条件、循环与迭代.md",
+                "file": "Entrepreneurship/EnPr_2023-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,15 +204,15 @@
   },
   "active": "b3224cdd01ef1332",
   "lastOpenFiles": [
-    "Learning/Python/面向对象编程.md",
-    "微博手机注册.md",
-    "Learning/Python/推导式.md",
-    "Learning/Python/语法.md",
-    "Learning/Python/数据类型与变量.md",
+    "诗文佳句/未命名.md",
+    "Python 笔记.md",
     "Social Capital.md",
-    "Innovation/Cases 案例/安全带的发明.md",
-    "Vi, Vim学习.md",
-    "笔记/网读/杂记.md",
-    "Learning/Python/学习策略.md"
+    "创意生成训练器.md",
+    "基于 赫 尔 曼 模型 的 项目 平衡 计分 卡  詹姆斯·刘易斯(James P. Lewis). 项目计划、进度与控制(原书第5版) (Kindle位置1201). 机械工业出版社. Kindle 版本..md",
+    "微博手机注册.md",
+    "张维迎 企业家精神笔记.md",
+    "张思之的反思.md",
+    "平台.md",
+    "未命名 3.canvas"
   ]
 }
