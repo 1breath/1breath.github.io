@@ -23,64 +23,12 @@
             }
           },
           {
-            "id": "71da3597102bea7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Python/面向对象编程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fedf01e3467c208a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "微博手机注册.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b3224cdd01ef1332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "鱼雁双嬉海棠金盏银托器.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cc12bbec0b120f4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Management/绩效评估：基于赫尔曼模型的项目平衡计分卡.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d487f19455d009b0",
+            "id": "4b73c1f3a5c057c4",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "备课/案例研究/案例研究的结构.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -90,25 +38,12 @@
             }
           },
           {
-            "id": "516ce60ec6375cca",
+            "id": "bd381c05a274111c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "护眼色背景.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d0242cc2264bff94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "案例研究方案的设计.md",
+                "file": "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -116,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,6 +83,34 @@
             }
           },
           {
+            "id": "d39220fad2a64bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "473f1aa6fa6cb2fc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
             "id": "2cd93f0100b06533",
             "type": "leaf",
             "state": {
@@ -162,8 +125,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "案例研究方案的设计.md",
+                "file": "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "案例研究方案的设计.md"
+                "file": "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md"
               }
             }
           },
@@ -221,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "案例研究方案的设计.md",
+                "file": "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,34 +211,52 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d0242cc2264bff94",
+  "active": "bd381c05a274111c",
   "lastOpenFiles": [
-    "Pasted image 20230319114504.png",
-    "Pasted image 20230319105017.png",
-    "Pasted image 20230319103901.png",
-    "Pasted image 20230319103820.png",
-    "Pasted image 20230319103642.png",
-    "Pasted image 20230319101423.png",
-    "案例研究方案的设计.md",
-    "护眼色背景.md",
-    "Pasted image 20230315081441.png",
-    "Learning/Management/绩效评估：基于赫尔曼模型的项目平衡计分卡.md",
-    "基于 赫 尔 曼 模型 的 项目 平衡 计分 卡  詹姆斯·刘易斯(James P. Lewis). 项目计划、进度与控制(原书第5版) (Kindle位置1201). 机械工业出版社. Kindle 版本..md",
-    "商业/项目管理/问题・任务・愿景.md",
-    "余英时论中共政权长久性.md",
-    "余英时论统治长久.md",
-    "诗文佳句/未命名.md",
+    "Pasted image 20230331224919.png",
+    "1a3c1ce8fe87d2c875ea70bd63320cb.png",
+    "备课/案例研究/案例研究设计与方法/第二章  案例研究方案的设计.md",
+    "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
+    "备课/案例研究/案例研究的艺术/第三章 质性研究的本质.md",
+    "备课/案例研究/案例研究的艺术",
+    "备课/案例研究/案例研究设计与方法",
+    "备课/案例研究/案例研究的结构.canvas",
     "未命名 1.canvas",
-    "未命名.canvas",
-    "8-Point Checklist for Revision名.md",
-    "202302121851.md",
-    "2023-02-12.md",
-    "笔记/网读/杂记.md",
-    "Learning/Python/条件、循环与迭代.md",
-    "微博手机注册.md",
-    "笔记/网读/Communicating with Slip Boxes.md",
-    "Pasted image 20220801103619.png",
+    "笔记/读书/旧制度的悲剧.md",
+    "张维迎 企业家精神笔记.md",
+    "Social Capital.md",
+    "笔记/读书/余英时论中共政权长久性.md",
+    "笔记/读书/艺术社会学——文化的钻石模型.md",
+    "余英时论统治长久.md",
+    "出版自由.md",
+    "笔记/读书/语言的两种意义.md",
+    "笔记/读书/能指与所指间的关系.md",
+    "马云：大数据时代，计划经济将更优越.md",
+    "笔记/读书/论出版自由.md",
+    "笔记/读书/财富的产生.md",
+    "商业/项目管理/问题・任务・愿景.md",
+    "Pasted image 20230319103820.png",
+    "备课/案例研究",
+    "备课",
+    "Innovation/Cases 案例/安全带的发明.md",
+    "Entrepreneurship/2022-04-07（补2022-04-08）.md",
+    "Pasted image 20230209211256.png",
+    "未命名 4.canvas",
+    "未命名 3.canvas",
     "Vi, Vim学习.md",
-    "vim编辑完之后无法切换到命令行模式.md"
+    "8-Point Checklist for Revision名.md",
+    "2023-02-12.md",
+    "202303312107.md",
+    "202303312108.md",
+    "Entrepreneurship/2022-04-05.md",
+    "鱼雁双嬉海棠金盏银托器.md",
+    "iMages/解决问题的心形符号.png",
+    "iMages/空的心形符号.png",
+    "iMages/带有“ 必需” 特征 的心形符号.png",
+    "iMages/带有“ 希望” 和“ 乐于 接受” 特征的心形 符号.png",
+    "iMages/填完整的心形符号.png",
+    "iMages/人工智能的定义.png",
+    "iMages/基于赫尔曼模型的项目平衡计分卡.png",
+    "未命名 2.canvas"
   ]
 }
