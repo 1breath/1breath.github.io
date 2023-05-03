@@ -28,7 +28,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "备课/案例研究/案例研究的结构.canvas",
+                "file": "未命名 8.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -38,12 +38,90 @@
             }
           },
           {
-            "id": "bd381c05a274111c",
+            "id": "47830656c24199ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
+                "file": "SIVA/毕业论文辅导/2019级/李      京.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "06d769bec51849a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIVA/毕业论文辅导/2019级/李宇康.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "efd5cf289cd9c027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIVA/毕业论文辅导/2019级/何采曦.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "34562a627e630ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIVA/毕业论文辅导/2019级/章秋璇.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "51dbb8dc87439d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIVA/毕业论文辅导/2019级/郑然然.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "00f733fe374001e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIVA/毕业论文辅导/2019级/郑然然.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7e38284a12fd4cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIVA/毕业论文辅导/2019级/叶   琪.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -51,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,12 +161,50 @@
             }
           },
           {
+            "id": "f16e3cf59b7b9503",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名 6.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "a25d4659fa76a2cb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名 5.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "5c83ad54ece18101",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "d39220fad2a64bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
+                "file": "SIVA/备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -124,6 +240,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "997566031dafe153",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -145,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
+                "file": "未命名 8.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md"
+                "file": "未命名 8.canvas"
               }
             }
           },
@@ -183,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
+                "file": "未命名 8.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,16 +335,35 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bd381c05a274111c",
+  "active": "4b73c1f3a5c057c4",
   "lastOpenFiles": [
+    "未命名 7.canvas",
+    "未命名 8.canvas",
+    "SIVA/毕业论文辅导/2019级/章秋璇.md",
+    "SIVA/毕业论文辅导/2019级/何采曦.md",
+    "SIVA/毕业论文辅导/2019级/李      京.md",
+    "SIVA/毕业论文辅导/2019级/叶   琪.md",
+    "SIVA/毕业论文辅导/2019级/郑然然.md",
+    "SIVA/毕业论文辅导/2019级/李宇康.md",
+    "未命名 6.canvas",
+    "李宇康.md",
+    "未命名 5.canvas",
+    "未命名.canvas",
+    "SIVA/备课/案例研究/案例研究的结构.canvas",
+    "SIVA/毕业论文辅导/2019级/李京",
+    "SIVA/毕业论文辅导/2019级",
+    "SIVA/毕业论文辅导",
+    "SIVA",
+    "2023-04-06.md",
+    "202304061326.md",
+    "笔记/读书/能指与所指间的关系.md",
+    "SIVA/备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
     "Pasted image 20230331224919.png",
     "1a3c1ce8fe87d2c875ea70bd63320cb.png",
-    "备课/案例研究/案例研究设计与方法/第二章  案例研究方案的设计.md",
-    "备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
-    "备课/案例研究/案例研究的艺术/第三章 质性研究的本质.md",
-    "备课/案例研究/案例研究的艺术",
-    "备课/案例研究/案例研究设计与方法",
-    "备课/案例研究/案例研究的结构.canvas",
+    "SIVA/备课/案例研究/案例研究设计与方法/第二章  案例研究方案的设计.md",
+    "SIVA/备课/案例研究/案例研究的艺术/第三章 质性研究的本质.md",
+    "SIVA/备课/案例研究/案例研究的艺术",
+    "SIVA/备课/案例研究/案例研究设计与方法",
     "未命名 1.canvas",
     "笔记/读书/旧制度的悲剧.md",
     "张维迎 企业家精神笔记.md",
@@ -230,33 +373,22 @@
     "余英时论统治长久.md",
     "出版自由.md",
     "笔记/读书/语言的两种意义.md",
-    "笔记/读书/能指与所指间的关系.md",
     "马云：大数据时代，计划经济将更优越.md",
     "笔记/读书/论出版自由.md",
     "笔记/读书/财富的产生.md",
     "商业/项目管理/问题・任务・愿景.md",
     "Pasted image 20230319103820.png",
-    "备课/案例研究",
-    "备课",
-    "Innovation/Cases 案例/安全带的发明.md",
-    "Entrepreneurship/2022-04-07（补2022-04-08）.md",
+    "SIVA/备课/案例研究",
+    "SIVA/备课",
     "Pasted image 20230209211256.png",
     "未命名 4.canvas",
     "未命名 3.canvas",
-    "Vi, Vim学习.md",
-    "8-Point Checklist for Revision名.md",
-    "2023-02-12.md",
-    "202303312107.md",
-    "202303312108.md",
-    "Entrepreneurship/2022-04-05.md",
-    "鱼雁双嬉海棠金盏银托器.md",
     "iMages/解决问题的心形符号.png",
     "iMages/空的心形符号.png",
     "iMages/带有“ 必需” 特征 的心形符号.png",
     "iMages/带有“ 希望” 和“ 乐于 接受” 特征的心形 符号.png",
     "iMages/填完整的心形符号.png",
     "iMages/人工智能的定义.png",
-    "iMages/基于赫尔曼模型的项目平衡计分卡.png",
     "未命名 2.canvas"
   ]
 }
