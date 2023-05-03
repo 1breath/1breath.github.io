@@ -26,14 +26,12 @@
             "id": "4b73c1f3a5c057c4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名 8.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "思考/杂思/关于想象力.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -269,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 8.canvas",
+                "file": "思考/杂思/关于想象力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 8.canvas"
+                "file": "思考/杂思/关于想象力.md"
               }
             }
           },
@@ -307,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 8.canvas",
+                "file": "思考/杂思/关于想象力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,8 +335,10 @@
   },
   "active": "4b73c1f3a5c057c4",
   "lastOpenFiles": [
-    "未命名 7.canvas",
+    "思考/杂思/中国向何处去？.md",
+    "思考/杂思/关于想象力.md",
     "未命名 8.canvas",
+    "未命名 7.canvas",
     "SIVA/毕业论文辅导/2019级/章秋璇.md",
     "SIVA/毕业论文辅导/2019级/何采曦.md",
     "SIVA/毕业论文辅导/2019级/李      京.md",
@@ -376,7 +376,6 @@
     "马云：大数据时代，计划经济将更优越.md",
     "笔记/读书/论出版自由.md",
     "笔记/读书/财富的产生.md",
-    "商业/项目管理/问题・任务・愿景.md",
     "Pasted image 20230319103820.png",
     "SIVA/备课/案例研究",
     "SIVA/备课",
