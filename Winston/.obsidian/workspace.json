@@ -106,10 +106,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIVA/毕业论文辅导/2019级/郑然然.md",
+                "file": "思考/杂思/关于想象力.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "6ab134c3c7620f83",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
               }
             }
           },
@@ -129,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -269,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIVA/毕业论文辅导/2019级/郑然然.md",
+                "file": "思考/杂思/关于想象力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIVA/毕业论文辅导/2019级/郑然然.md"
+                "file": "思考/杂思/关于想象力.md"
               }
             }
           },
@@ -307,7 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIVA/毕业论文辅导/2019级/郑然然.md",
+                "file": "思考/杂思/关于想象力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,8 +344,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "00f733fe374001e0",
+  "active": "6ab134c3c7620f83",
   "lastOpenFiles": [
+    "SIVA/毕业论文辅导/2019级/郑然然.md",
     "未命名 6.canvas",
     "笔记/网读/杂记.md",
     "202305041408.md",
@@ -345,7 +356,6 @@
     "未命名 2.canvas",
     "未命名 1.canvas",
     "SIVA/毕业论文辅导/2019级/叶   琪.md",
-    "SIVA/毕业论文辅导/2019级/郑然然.md",
     "SIVA/毕业论文辅导/2019级/章秋璇.md",
     "SIVA/毕业论文辅导/2019级/何采曦.md",
     "SIVA/毕业论文辅导/2019级/李宇康.md",
