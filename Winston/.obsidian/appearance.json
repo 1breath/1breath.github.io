@@ -2,5 +2,6 @@
   "translucency": false,
   "theme": "system",
   "accentColor": "",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSize": 14
 }
