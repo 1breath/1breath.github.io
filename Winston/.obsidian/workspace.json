@@ -28,121 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考/杂思/关于想象力.md",
+                "file": "SIVA/备课/案例研究/案例写作.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "47830656c24199ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIVA/毕业论文辅导/2019级/李      京.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "06d769bec51849a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIVA/毕业论文辅导/2019级/李宇康.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "efd5cf289cd9c027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIVA/毕业论文辅导/2019级/何采曦.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "34562a627e630ec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIVA/毕业论文辅导/2019级/章秋璇.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "51dbb8dc87439d66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIVA/毕业论文辅导/2019级/郑然然.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "00f733fe374001e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思考/杂思/关于想象力.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6ab134c3c7620f83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIVA/毕业论文辅导/2019级/答辩情况.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7e38284a12fd4cea",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名 6.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 372,
-                  "zoom": 0
-                }
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIVA/毕业论文辅导/2019级/答辩情况.md",
+                "file": "SIVA/备课/案例研究/案例写作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIVA/毕业论文辅导/2019级/答辩情况.md"
+                "file": "SIVA/备课/案例研究/案例写作.md"
               }
             }
           },
@@ -320,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIVA/毕业论文辅导/2019级/答辩情况.md",
+                "file": "SIVA/备课/案例研究/案例写作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,29 +242,32 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6ab134c3c7620f83",
+  "active": "4b73c1f3a5c057c4",
   "lastOpenFiles": [
-    "SIVA/毕业论文辅导/2019级/答辩情况.md",
     "SIVA/毕业论文辅导/2019级/郑然然.md",
+    "SIVA/备课/案例研究/案例写作.md",
+    "SIVA/毕业论文辅导/2019级/李宇康.md",
+    "SIVA/毕业论文辅导/2019级/章秋璇.md",
+    "SIVA/毕业论文辅导/2019级/何采曦.md",
+    "SIVA/毕业论文辅导/2019级/叶   琪.md",
+    "SIVA/毕业论文辅导/2019级/李      京.md",
+    "SIVA/毕业论文辅导/2019级/毕业论文展览.md",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "SIVA/毕业论文辅导/2019级/答辩情况.md",
+    "思考/杂思/关于想象力.md",
     "未命名 6.canvas",
     "笔记/网读/杂记.md",
     "202305041408.md",
     "2023-05-04.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
-    "未命名 2.canvas",
-    "未命名 1.canvas",
-    "SIVA/毕业论文辅导/2019级/叶   琪.md",
-    "SIVA/毕业论文辅导/2019级/章秋璇.md",
-    "SIVA/毕业论文辅导/2019级/何采曦.md",
-    "SIVA/毕业论文辅导/2019级/李宇康.md",
-    "SIVA/毕业论文辅导/2019级/李      京.md",
-    "思考/杂思/关于想象力.md",
     "思考/杂思/中国向何处去？.md",
     "未命名 8.canvas",
     "未命名 7.canvas",
     "李宇康.md",
-    "未命名.canvas",
     "SIVA/备课/案例研究/案例研究的结构.canvas",
     "SIVA/毕业论文辅导/2019级/李京",
     "SIVA/毕业论文辅导/2019级",
@@ -391,13 +288,10 @@
     "Social Capital.md",
     "笔记/读书/余英时论中共政权长久性.md",
     "笔记/读书/艺术社会学——文化的钻石模型.md",
-    "余英时论统治长久.md",
-    "出版自由.md",
     "Pasted image 20230319103820.png",
     "SIVA/备课/案例研究",
     "SIVA/备课",
     "Pasted image 20230209211256.png",
-    "未命名 3.canvas",
     "iMages/解决问题的心形符号.png",
     "iMages/空的心形符号.png",
     "iMages/带有“ 必需” 特征 的心形符号.png",
