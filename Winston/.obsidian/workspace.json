@@ -39,9 +39,12 @@
             "id": "8d70b25235b50534",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "SIVA/毕业论文辅导/2019级/章秋璇.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
