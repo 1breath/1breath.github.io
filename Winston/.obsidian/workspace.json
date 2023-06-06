@@ -47,9 +47,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "00ae89088fe1678a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,7 +265,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8d70b25235b50534",
+  "active": "00ae89088fe1678a",
   "lastOpenFiles": [
     "SIVA/备课/案例研究/案例写作.md",
     "SIVA/毕业论文辅导/2019级/郑然然.md",
