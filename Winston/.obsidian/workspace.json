@@ -23,38 +23,25 @@
             }
           },
           {
-            "id": "4b73c1f3a5c057c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIVA/毕业论文辅导/2019级/章秋璇.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8d70b25235b50534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIVA/毕业论文辅导/2019级/章秋璇.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "00ae89088fe1678a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIVA/杂项.md",
+                "file": "社会学/暴力情境.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9f33473e323cff1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entrepreneurship/EnPr_2023-01-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIVA/杂项.md",
+                "file": "Entrepreneurship/EnPr_2023-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIVA/杂项.md"
+                "file": "Entrepreneurship/EnPr_2023-01-28.md"
               }
             }
           },
@@ -253,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIVA/杂项.md",
+                "file": "Entrepreneurship/EnPr_2023-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,10 +268,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "00ae89088fe1678a",
+  "active": "9f33473e323cff1e",
   "lastOpenFiles": [
-    "Entrepreneurship/2023-06-06.md",
+    "未命名 9.canvas",
+    "Vi, Vim学习.md",
+    "SIVA/毕业论文辅导/2019级/章秋璇.md",
+    "社会学/互动仪式理论的核心机制.md",
+    "社会学/暴力情境.md",
+    "Innovation/创业笔记本/项目：创业清单/项目描述.md",
+    "Innovation/创业笔记本/内容运营.md",
     "SIVA/杂项.md",
+    "Entrepreneurship/2023-06-06.md",
     "Entrepreneurship/2022-04-22.md",
     "Entrepreneurship/EnPr_2023-01-28.md",
     "Entrepreneurship/2022-04-21.md",
@@ -292,7 +287,6 @@
     "SIVA/备课/案例研究/案例写作.md",
     "SIVA/毕业论文辅导/2019级/郑然然.md",
     "SIVA/毕业论文辅导/2019级/李宇康.md",
-    "SIVA/毕业论文辅导/2019级/章秋璇.md",
     "SIVA/毕业论文辅导/2019级/何采曦.md",
     "SIVA/毕业论文辅导/2019级/叶   琪.md",
     "SIVA/毕业论文辅导/2019级/李      京.md",
@@ -311,19 +305,12 @@
     "未命名 4.canvas",
     "思考/杂思/中国向何处去？.md",
     "未命名 8.canvas",
-    "未命名 7.canvas",
-    "李宇康.md",
     "SIVA/毕业论文辅导/2019级/李京",
     "SIVA/毕业论文辅导/2019级",
     "SIVA/毕业论文辅导",
     "SIVA",
-    "2023-04-06.md",
-    "202304061326.md",
-    "笔记/读书/能指与所指间的关系.md",
-    "SIVA/备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
     "Pasted image 20230331224919.png",
     "1a3c1ce8fe87d2c875ea70bd63320cb.png",
-    "SIVA/备课/案例研究/案例研究设计与方法/第二章  案例研究方案的设计.md",
     "SIVA/备课/案例研究/案例研究的艺术",
     "SIVA/备课/案例研究/案例研究设计与方法",
     "Pasted image 20230319103820.png",
