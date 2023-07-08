@@ -23,20 +23,67 @@
             }
           },
           {
-            "id": "2210a56d4b3a3dd6",
+            "id": "16d1af1760b90955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entrepreneurship/Podcast-2023-06-12.md",
+                "file": "2023-07-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "a7a0261ba23a2702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c3c9817abc73c578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0ca15f8b18f42ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5217798b4a1e9a62",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entrepreneurship/Podcast-2023-06-12.md",
+                "file": "2023-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entrepreneurship/Podcast-2023-06-12.md"
+                "file": "2023-07-08.md"
               }
             }
           },
@@ -240,36 +287,40 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entrepreneurship/Podcast-2023-06-12.md",
+                "file": "2023-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
+      "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "2210a56d4b3a3dd6",
+  "active": "0ca15f8b18f42ff2",
   "lastOpenFiles": [
+    "1a3c1ce8fe87d2c875ea70bd63320cb.png",
+    "2023-07-08.md",
+    "Vi, Vim学习.md",
+    "未命名 14.canvas",
+    "Entrepreneurship/Podcast-2023-06-12.md",
     "Innovation/创业笔记本/内容运营.md",
     "Innovation/创业笔记本/项目：创业清单/项目描述.md",
     "思考/杂思/关于想象力.md",
@@ -281,7 +332,6 @@
     "思考/杂思/中国向何处去？.md",
     "未命名 13.canvas",
     "未命名 12.canvas",
-    "Entrepreneurship/Podcast-2023-06-12.md",
     "Podcast.canvas",
     "社会学/暴力情境.md",
     "未命名 11.canvas",
@@ -293,8 +343,6 @@
     "马云：大数据时代，计划经济将更优越.md",
     "未命名 10.canvas",
     "Entrepreneurship/EnPr_2023-01-28.md",
-    "未命名 9.canvas",
-    "Vi, Vim学习.md",
     "SIVA/毕业论文辅导/2019级/章秋璇.md",
     "SIVA/杂项.md",
     "Entrepreneurship/2023-06-06.md",
@@ -304,14 +352,11 @@
     "SIVA/毕业论文辅导/2019级/郑然然.md",
     "SIVA/毕业论文辅导/2019级/李宇康.md",
     "SIVA/毕业论文辅导/2019级/何采曦.md",
-    "SIVA/毕业论文辅导/2019级/叶   琪.md",
-    "SIVA/毕业论文辅导/2019级/李      京.md",
     "SIVA/毕业论文辅导/2019级/李京",
     "SIVA/毕业论文辅导/2019级",
     "SIVA/毕业论文辅导",
     "SIVA",
     "Pasted image 20230331224919.png",
-    "1a3c1ce8fe87d2c875ea70bd63320cb.png",
     "SIVA/备课/案例研究/案例研究的艺术",
     "SIVA/备课/案例研究/案例研究设计与方法",
     "Pasted image 20230319103820.png",
