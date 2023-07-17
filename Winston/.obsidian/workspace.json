@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-08.md",
+                "file": "202307171623.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "5217798b4a1e9a62",
+            "id": "0bc019d78c50c2ad",
             "type": "leaf",
             "state": {
               "type": "card-board-view",
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -233,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 369.5026054382324
   },
   "right": {
     "id": "88a3c37d8c5dc758",
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-08.md",
+                "file": "202307171623.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-08.md"
+                "file": "202307171623.md"
               }
             }
           },
@@ -287,13 +287,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-08.md",
+                "file": "202307171623.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -314,10 +315,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "0ca15f8b18f42ff2",
+  "active": "0bc019d78c50c2ad",
   "lastOpenFiles": [
-    "1a3c1ce8fe87d2c875ea70bd63320cb.png",
+    "未命名 15.canvas",
+    "202307171623.md",
     "2023-07-08.md",
+    "1a3c1ce8fe87d2c875ea70bd63320cb.png",
     "Vi, Vim学习.md",
     "未命名 14.canvas",
     "Entrepreneurship/Podcast-2023-06-12.md",
@@ -341,7 +344,6 @@
     "未命名 2.canvas",
     "李宇康.md",
     "马云：大数据时代，计划经济将更优越.md",
-    "未命名 10.canvas",
     "Entrepreneurship/EnPr_2023-01-28.md",
     "SIVA/毕业论文辅导/2019级/章秋璇.md",
     "SIVA/杂项.md",
@@ -351,7 +353,6 @@
     "SIVA/备课/案例研究/案例写作.md",
     "SIVA/毕业论文辅导/2019级/郑然然.md",
     "SIVA/毕业论文辅导/2019级/李宇康.md",
-    "SIVA/毕业论文辅导/2019级/何采曦.md",
     "SIVA/毕业论文辅导/2019级/李京",
     "SIVA/毕业论文辅导/2019级",
     "SIVA/毕业论文辅导",

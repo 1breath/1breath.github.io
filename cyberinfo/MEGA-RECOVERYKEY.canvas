@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"404b5a6dfd66ee8d","x":-340,"y":-200,"width":400,"height":380,"type":"link","url":"https://mega.nz/"},
+		{"id":"c1f4a55b385efbbe","x":0,"y":-100,"width":400,"height":400,"type":"file","file":"MEGA-RECOVERYKEY.txt"},
+		{"id":"dd5f870f0cb35eb5","x":-320,"y":200,"width":250,"height":60,"type":"text","text":"p9nwBz4vZa7iEhL5_NVwaw"}
+	],
+	"edges":[]
+}
