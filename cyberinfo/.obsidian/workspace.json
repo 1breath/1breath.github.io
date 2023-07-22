@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b5575c0e455bb38",
+        "id": "b0ff06c3195e9a40",
         "type": "tabs",
         "children": [
           {
-            "id": "6d80cc6bba794607",
+            "id": "94f1f9bbb723d98a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "MEGA-RECOVERYKEY.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9cf202f163a89a60",
@@ -96,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEGA-RECOVERYKEY.canvas",
+                "file": "Chrome Clippings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEGA-RECOVERYKEY.canvas",
+                "file": "Chrome Clippings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEGA-RECOVERYKEY.canvas"
+                "file": "Chrome Clippings.md"
               }
             }
           }
@@ -159,9 +153,9 @@
   },
   "active": "e1f8ef5575e43338",
   "lastOpenFiles": [
-    "MEGA-RECOVERYKEY.txt",
-    "Chrome Clippings.md",
     "未命名 1.canvas",
-    "MEGA-RECOVERYKEY.canvas"
+    "MEGA-RECOVERYKEY.canvas",
+    "MEGA-RECOVERYKEY.txt",
+    "Chrome Clippings.md"
   ]
 }
