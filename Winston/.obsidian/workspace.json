@@ -99,12 +99,30 @@
             "id": "7545425bc1169760",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "思考/杂思/反身份.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5076789f06c6a914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -270,6 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +304,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.md"
+              }
             }
           },
           {
@@ -305,6 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,8 +354,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7545425bc1169760",
+  "active": "5076789f06c6a914",
   "lastOpenFiles": [
+    "思考/杂思/反身份.md",
+    "未命名.md",
     "2023-07-20.md",
     "未命名 16.canvas",
     "Entrepreneurship/2022-04-05.md",
@@ -369,7 +393,6 @@
     "Entrepreneurship/2023-06-06.md",
     "Entrepreneurship/2022-04-22.md",
     "Entrepreneurship/2022-04-21.md",
-    "SIVA/备课/案例研究/案例写作.md",
     "SIVA/毕业论文辅导/2019级/李京",
     "SIVA/毕业论文辅导/2019级",
     "SIVA/毕业论文辅导",
