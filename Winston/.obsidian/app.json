@@ -7,5 +7,7 @@
   "rightToLeft": false,
   "newFileLocation": "root",
   "defaultViewMode": "source",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }

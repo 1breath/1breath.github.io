@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202307171623.md",
+                "file": "反抗身份 书单.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "202305041408.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -272,7 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5026054382324
+    "width": 200
   },
   "right": {
     "id": "88a3c37d8c5dc758",
@@ -288,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "202305041408.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "202305041408.md"
               }
             }
           },
@@ -326,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "202305041408.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,14 +356,17 @@
   },
   "active": "5076789f06c6a914",
   "lastOpenFiles": [
-    "思考/杂思/反身份.md",
+    "反抗身份 书单.md",
+    "template.md",
+    "douban.js",
+    "AllBooks.md",
     "未命名.md",
+    "思考/杂思/反身份.md",
     "2023-07-20.md",
     "未命名 16.canvas",
     "Entrepreneurship/2022-04-05.md",
     "Entrepreneurship/Podcast-2023-06-12.md",
     "未命名 11.canvas",
-    "202307171623.md",
     "未命名 15.canvas",
     "2023-07-08.md",
     "1a3c1ce8fe87d2c875ea70bd63320cb.png",
@@ -391,8 +394,6 @@
     "SIVA/毕业论文辅导/2019级/章秋璇.md",
     "SIVA/杂项.md",
     "Entrepreneurship/2023-06-06.md",
-    "Entrepreneurship/2022-04-22.md",
-    "Entrepreneurship/2022-04-21.md",
     "SIVA/毕业论文辅导/2019级/李京",
     "SIVA/毕业论文辅导/2019级",
     "SIVA/毕业论文辅导",
