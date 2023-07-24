@@ -8,9 +8,42 @@
         {
           "name": "douban",
           "type": "UserScript",
-          "id": "4524189a-69e8-4554-ad76-e614aefcc51c",
+          "id": "f2a77964-0637-401b-9689-60e652123f11",
           "path": "douban.js",
           "settings": {}
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "a2f61878-2d5f-4a3e-bbe7-47a0f26716bb",
+          "choice": {
+            "id": "1dd0bddc-5a3f-4bd4-98bc-ab34165da601",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/template.md",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
         }
       ],
       "runOnStartup": true
