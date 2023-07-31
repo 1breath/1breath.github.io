@@ -11,8 +11,15 @@
             "id": "94f1f9bbb723d98a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -90,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chrome Clippings.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chrome Clippings.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chrome Clippings.md"
+                "file": "未命名.canvas"
               }
             }
           }
@@ -151,11 +158,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1f8ef5575e43338",
+  "active": "94f1f9bbb723d98a",
   "lastOpenFiles": [
+    "Chrome Clippings.md",
+    "未命名.canvas",
     "未命名 1.canvas",
     "MEGA-RECOVERYKEY.canvas",
-    "MEGA-RECOVERYKEY.txt",
-    "Chrome Clippings.md"
+    "MEGA-RECOVERYKEY.txt"
   ]
 }

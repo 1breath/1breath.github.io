@@ -3,5 +3,6 @@
   "theme": "system",
   "accentColor": "",
   "nativeMenus": true,
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "cssTheme": "iA Writer"
 }

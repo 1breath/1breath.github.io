@@ -5,9 +5,13 @@
   "spellcheck": true,
   "vimMode": false,
   "rightToLeft": false,
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "defaultViewMode": "source",
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "iMages",
+  "newFileFolderPath": ""
 }
