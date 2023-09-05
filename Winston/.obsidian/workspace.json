@@ -26,13 +26,8 @@
             "id": "f8dba3a7b35f0f59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "定义.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -211,7 +206,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,9 +221,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "定义.md"
-              }
+              "state": {}
             }
           },
           {
@@ -249,7 +241,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,11 +270,11 @@
   },
   "active": "f8dba3a7b35f0f59",
   "lastOpenFiles": [
+    "定义.md",
     "Vi, Vim学习.md",
     "约瑟夫•孔苏思（Joseph Konsuth）的作品《一把椅子和三把椅子》.md",
     "2023-07-08.md",
     "笔记/读书/语言的两种意义.md",
-    "定义.md",
     "iMages/image00213.jpeg",
     "思考/杂思/反身份.md",
     "思考/杂思/关于想象力.md",
