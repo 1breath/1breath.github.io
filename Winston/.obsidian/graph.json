@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "tag:#社会学/微观社会学  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 14069084
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5359795996225933,
-  "close": false
+  "scale": 1.7404978230765873,
+  "close": true
 }

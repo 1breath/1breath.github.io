@@ -23,19 +23,16 @@
             }
           },
           {
-            "id": "f8dba3a7b35f0f59",
+            "id": "25201a0c3543db82",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "28b01fdbed0421e8",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "定义.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -168,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#内涵定义",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,12 +182,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "88a3c37d8c5dc758",
@@ -206,6 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +219,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "定义.md"
+              }
             }
           },
           {
@@ -241,13 +241,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -268,11 +269,13 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f8dba3a7b35f0f59",
+  "active": "2cd93f0100b06533",
   "lastOpenFiles": [
-    "定义.md",
+    "1a3c1ce8fe87d2c875ea70bd63320cb.png",
     "Vi, Vim学习.md",
+    "未命名 16.canvas",
     "约瑟夫•孔苏思（Joseph Konsuth）的作品《一把椅子和三把椅子》.md",
+    "定义.md",
     "2023-07-08.md",
     "笔记/读书/语言的两种意义.md",
     "iMages/image00213.jpeg",
@@ -296,10 +299,8 @@
     "反抗身份 书单.md",
     "笔记/读书/亚里士多德论求知.md",
     "笔记/读书/互动仪式链.md",
-    "1a3c1ce8fe87d2c875ea70bd63320cb.png",
     "Innovation/Cases 案例/安全带的发明.md",
     "Entrepreneurship/2022-04-07（补2022-04-08）.md",
-    "Entrepreneurship/2023-06-06.md",
     "未命名 20.canvas",
     "未命名 19.canvas",
     "未命名 18.canvas",
@@ -316,7 +317,6 @@
     "未命名 2.canvas",
     "未命名 4.canvas",
     "未命名 15.canvas",
-    "未命名 10.canvas",
     "New folder",
     "Templates/douban.js",
     "Templates",
