@@ -18,3 +18,16 @@
 
 ## 第三部分 推送至github.
 配置一下博客的 config 文件, 注意 `themesDir = "themes"` 不要添加斜杠 `/`, 否则在下一步利用 GitHub Action自动部署会报找不到主题的错误.
+
+hugo -D 
+hugo 
+cd ./public 
+git add -A 
+git commit -m "脚本提交" 
+git push -u origin main
+### 在github修改master为main后，提示
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+

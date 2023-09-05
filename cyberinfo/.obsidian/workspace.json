@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9cf202f163a89a60",
@@ -104,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hugo 创建Blog 并托管到github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hugo 创建Blog 并托管到github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hugo 创建Blog 并托管到github.md"
+              }
             }
           }
         ]
@@ -161,7 +164,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8c37a54cd36eedc9",
+  "active": "0f07806f10ede103",
   "lastOpenFiles": [
     "hugo 创建Blog 并托管到github.md",
     "MEGA-RECOVERYKEY.canvas",
