@@ -29,13 +29,22 @@
               "type": "markdown",
               "state": {
                 "file": "定义.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "28b01fdbed0421e8",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vi, Vim学习.md",
+                "file": "定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vi, Vim学习.md"
+                "file": "定义.md"
               }
             }
           },
@@ -240,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vi, Vim学习.md",
+                "file": "定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +277,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "24a61c678ca6fa29",
+  "active": "f8dba3a7b35f0f59",
   "lastOpenFiles": [
     "Vi, Vim学习.md",
     "约瑟夫•孔苏思（Joseph Konsuth）的作品《一把椅子和三把椅子》.md",
