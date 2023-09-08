@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "定义.md",
+                "file": "Vi, Vim学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "定义.md"
+                "file": "Vi, Vim学习.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "定义.md",
+                "file": "Vi, Vim学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
