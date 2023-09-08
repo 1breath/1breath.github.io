@@ -37,25 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "b0ec7304170882eb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3b1d18f6a9b8975c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "定义.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
