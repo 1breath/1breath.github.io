@@ -17,7 +17,7 @@
                 "file": "Vi, Vim学习.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "pinned": true
             }
@@ -29,14 +29,33 @@
               "type": "markdown",
               "state": {
                 "file": "定义.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "b0ec7304170882eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b1d18f6a9b8975c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "定义.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +87,7 @@
                 "file": "思考/道路问题是基本问题.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -81,7 +100,7 @@
                 "file": "Entrepreneurship/Podcast-2023-06-12.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -140,7 +159,7 @@
                 "file": "SIVA/备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -165,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#发生定义",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "88a3c37d8c5dc758",
@@ -252,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
