@@ -34,19 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "69c85f08c46427b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,11 +138,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "88a3c37d8c5dc758",
@@ -168,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "政治制度中的“承继的原则（principle of succession）”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "政治制度中的“承继的原则（principle of succession）”.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,7 +194,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "政治制度中的“承继的原则（principle of succession）”.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,8 +231,9 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "69c85f08c46427b4",
+  "active": "1b5857e78c493df1",
   "lastOpenFiles": [
+    "未命名.canvas",
     "iMages/Pasted image 20230917170330.png",
     "8-Point Checklist for Revision名.md",
     "2023-04-06.md",
@@ -267,7 +255,6 @@
     "未命名 19.canvas",
     "未命名 1.canvas",
     "未命名.md",
-    "未命名.canvas",
     "未命名 17.canvas",
     "未命名 24.canvas",
     "未命名 11.canvas",
@@ -292,7 +279,6 @@
     "z_Attachs/Pasted image 20230209212427.png",
     "z_Attachs/Pasted image 20220801103446.png",
     "z_Attachs/Pasted image 20220625083125.png",
-    "z_Attachs/Pasted image 20230209211018.png",
     "z_Attachs",
     "New folder",
     "Templates/douban.js",
