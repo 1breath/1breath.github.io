@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "25201a0c3543db82",
+            "id": "14a18832d1d92c4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "定义.md",
+                "file": "政治制度中的“承继的原则（principle of succession）”.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,28 +36,17 @@
             }
           },
           {
-            "id": "a724bdb851c9ba13",
+            "id": "69c85f08c46427b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "20e2417c0bd0323d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "currentVersion": "1.4.13"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,36 +104,6 @@
             }
           },
           {
-            "id": "f16e3cf59b7b9503",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名 6.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "a25d4659fa76a2cb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名 5.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "5c83ad54ece18101",
             "type": "leaf",
             "state": {
@@ -166,27 +125,12 @@
             }
           },
           {
-            "id": "473f1aa6fa6cb2fc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "2cd93f0100b06533",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Timothy_Snyder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,12 +148,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "88a3c37d8c5dc758",
@@ -225,14 +168,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
+                "file": "政治制度中的“承继的原则（principle of succession）”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -242,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.md"
+                "file": "政治制度中的“承继的原则（principle of succession）”.md"
               }
             }
           },
@@ -263,19 +206,27 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.md",
+                "file": "政治制度中的“承继的原则（principle of succession）”.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "201fc28fb75dcdbe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,61 +237,63 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "zk-prefixer:创建时间戳笔记": false,
       "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "notion-like-tables:Create new loom": false
     }
   },
-  "active": "20e2417c0bd0323d",
+  "active": "69c85f08c46427b4",
   "lastOpenFiles": [
-    "未命名 1.md",
-    "定义.md",
-    "Vi, Vim学习.md",
+    "iMages/Pasted image 20230917170330.png",
+    "8-Point Checklist for Revision名.md",
+    "2023-04-06.md",
     "1a3c1ce8fe87d2c875ea70bd63320cb.png",
-    "未命名 16.canvas",
-    "约瑟夫•孔苏思（Joseph Konsuth）的作品《一把椅子和三把椅子》.md",
-    "2023-07-08.md",
-    "笔记/读书/语言的两种意义.md",
-    "iMages/image00213.jpeg",
-    "思考/杂思/反身份.md",
-    "思考/杂思/关于想象力.md",
-    "思考/道路问题是基本问题.md",
-    "社会学/卢曼：系统的构成要素是沟通.md",
-    "社会学/互动仪式理论的核心机制.md",
-    "思考/杂思/中国向何处去？.md",
-    "未命名 21.canvas",
-    "鱼雁双嬉海棠金盏银托器.md",
+    "202305041408.md",
+    "202309100855.md",
+    "202302121851.md",
+    "Vi, Vim学习.md",
+    "2023-02-12.md",
+    "政治制度中的“承继的原则（principle of succession）”.md",
+    "202304061326.md",
+    "202303312108.md",
+    "202303312107.md",
+    "魔都，一老一幼的死，令我感慨良多。 2023-07-08.md",
+    "定义.md",
     "思想市场一词的出现.md",
+    "费孝通.md",
+    "约瑟夫•孔苏思（Joseph Konsuth）的作品《一把椅子和三把椅子》.md",
+    "未命名 19.canvas",
+    "未命名 1.canvas",
+    "未命名.md",
+    "未命名.canvas",
+    "未命名 17.canvas",
+    "未命名 24.canvas",
+    "未命名 11.canvas",
+    "未命名 6.canvas",
+    "化身认同.md",
+    "未命名 2.canvas",
+    "未命名 7.canvas",
+    "护眼色背景.md",
+    "文化自觉.md",
+    "文化定义.md",
     "微博手机注册.md",
     "张维迎 企业家精神笔记.md",
-    "张思之的反思.md",
-    "z_Attachs/Pasted image 20220625082953.png",
-    "Entrepreneurship/Podcast-2023-06-12.md",
-    "Entrepreneurship/EnPr_2023-01-28.md",
-    "2023-04-06.md",
-    "Entrepreneurship/2023-07-20.md",
+    "基于 赫 尔 曼 模型 的 项目 平衡 计分 卡  詹姆斯·刘易斯(James P. Lewis). 项目计划、进度与控制(原书第5版) (Kindle位置1201). 机械工业出版社. Kindle 版本..md",
     "反抗身份 书单.md",
-    "笔记/读书/亚里士多德论求知.md",
-    "笔记/读书/互动仪式链.md",
-    "Innovation/Cases 案例/安全带的发明.md",
-    "Entrepreneurship/2022-04-07（补2022-04-08）.md",
-    "未命名 20.canvas",
-    "未命名 19.canvas",
-    "未命名 18.canvas",
+    "未命名 26.canvas",
+    "Untitled.loom",
+    "iMages/image00213.jpeg",
+    "z_Attachs/Pasted image 20220625082953.png",
     "iMages/基于赫尔曼模型的项目平衡计分卡.png",
     "iMages/填完整的心形符号.png",
-    "未命名 17.canvas",
     "iMages/人工智能的定义.png",
-    "未命名.canvas",
     "z_Attachs/Pasted image 20230209212427.png",
     "z_Attachs/Pasted image 20220801103446.png",
     "z_Attachs/Pasted image 20220625083125.png",
     "z_Attachs/Pasted image 20230209211018.png",
     "z_Attachs",
-    "未命名 2.canvas",
-    "未命名 4.canvas",
-    "未命名 15.canvas",
     "New folder",
     "Templates/douban.js",
     "Templates",
@@ -348,7 +301,6 @@
     "SIVA/毕业论文辅导/2019级/李京",
     "SIVA/毕业论文辅导/2019级",
     "SIVA/毕业论文辅导",
-    "SIVA",
-    "SIVA/备课/案例研究/案例研究的艺术"
+    "SIVA"
   ]
 }

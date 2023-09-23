@@ -13,5 +13,6 @@
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "attachmentFolderPath": "iMages",
-  "newFileFolderPath": ""
+  "newFileFolderPath": "",
+  "promptDelete": false
 }
