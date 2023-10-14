@@ -1,48 +1,35 @@
 {
   "main": {
-    "id": "dd7d48777c81a764",
+    "id": "6d1c6125edb53737",
     "type": "split",
     "children": [
       {
-        "id": "552786e19ce9bb69",
+        "id": "c609ec8b7f2a0679",
         "type": "tabs",
         "children": [
           {
-            "id": "09fced3d995ac4b5",
+            "id": "0b75b0d7c50ffb61",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "0f07806f10ede103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hugo 创建Blog 并托管到github.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "98c289089a6aac89",
+    "id": "86a1cb4ad88690ad",
     "type": "split",
     "children": [
       {
-        "id": "24b7b2ddc2fd5ba2",
+        "id": "78e93c94ac336115",
         "type": "tabs",
         "children": [
           {
-            "id": "e1f8ef5575e43338",
+            "id": "48d7a41c96c81aa3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +39,7 @@
             }
           },
           {
-            "id": "aa9dbbda9b3b03a1",
+            "id": "654b72fda33ffeb5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,43 +54,34 @@
             }
           },
           {
-            "id": "8c37a54cd36eedc9",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "76ab84b8019304c1",
+            "id": "f59b888c3c080d3a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "9cf202f163a89a60",
+    "id": "d7b65aa5c37c3ebf",
     "type": "split",
     "children": [
       {
-        "id": "4f7f7eda2742ab3a",
+        "id": "4231b46076b75de1",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f31265d0f25afb",
+            "id": "9a0acc3e77102cf5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hugo 创建Blog 并托管到github.md",
+                "file": "Add_on/图书插件/AllBooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,19 +93,19 @@
             }
           },
           {
-            "id": "df317cede5ebeb78",
+            "id": "40a958a6df8a6911",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hugo 创建Blog 并托管到github.md",
+                "file": "Add_on/图书插件/AllBooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8208d4d5b3ed2991",
+            "id": "4946be381801534d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,22 +116,12 @@
             }
           },
           {
-            "id": "80af5d79e0e17c21",
+            "id": "1d5c7f4691ddd002",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "hugo 创建Blog 并托管到github.md"
-              }
-            }
-          },
-          {
-            "id": "c5cabbb96c46ec21",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
+                "file": "Add_on/图书插件/AllBooks.md"
               }
             }
           }
@@ -174,16 +142,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f07806f10ede103",
+  "active": "48d7a41c96c81aa3",
   "lastOpenFiles": [
-    "hugo 创建Blog 并托管到github.md",
-    "MEGA-RECOVERYKEY.canvas",
-    "Blog/未命名.canvas",
-    "Blog/未命名 1.canvas",
-    "Blog/未命名 2.canvas",
-    "Blog/企业家精神.md",
-    "Chrome Clippings.md",
-    "Blog",
-    "MEGA-RECOVERYKEY.txt"
+    "Add_on/图书插件/template.md",
+    "Add_on/图书插件/AllBooks.md",
+    "README.md",
+    "Winston/张思之的反思.md",
+    "Winston/z_Attachs/Pasted image 20220625082953.png",
+    "Workroom/Siva/Course_Siva/备课手记/创意与文化策划/课程系统——创意与文化策划.md",
+    "Workroom/Siva/读书会介绍.md",
+    "Workroom/Siva/Course_Siva/备课手记/文化产业经典案例分析/苹果硬件订阅收费计划.md",
+    "Workroom/Siva/Course_Siva/备课手记/文化产业经典案例分析/拼多的外围战略.md",
+    "cyberinfo/MEGA-RECOVERYKEY.canvas",
+    "cyberinfo/hugo 创建Blog 并托管到github.md",
+    "cyberinfo/Chrome Clippings.md"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "dd7d48777c81a764",
+    "id": "83dd147baf1b7180",
     "type": "split",
     "children": [
       {
-        "id": "552786e19ce9bb69",
+        "id": "1de9d1c467a6313c",
         "type": "tabs",
         "children": [
           {
-            "id": "09fced3d995ac4b5",
+            "id": "5d5abdd6efbf1779",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,15 +16,11 @@
             }
           },
           {
-            "id": "0f07806f10ede103",
+            "id": "731963d8e22cd0ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hugo 创建Blog 并托管到github.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -34,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "98c289089a6aac89",
+    "id": "42adee0f2685c7dd",
     "type": "split",
     "children": [
       {
-        "id": "24b7b2ddc2fd5ba2",
+        "id": "b0ecd3d1d585a087",
         "type": "tabs",
         "children": [
           {
-            "id": "e1f8ef5575e43338",
+            "id": "ebccaef004b412ed",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +48,7 @@
             }
           },
           {
-            "id": "aa9dbbda9b3b03a1",
+            "id": "5a8804851b17e849",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,43 +63,33 @@
             }
           },
           {
-            "id": "8c37a54cd36eedc9",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "76ab84b8019304c1",
+            "id": "dea0e9cfd15eb883",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "9cf202f163a89a60",
+    "id": "e2ce204952c24d40",
     "type": "split",
     "children": [
       {
-        "id": "4f7f7eda2742ab3a",
+        "id": "aa8cb2bc40d898d6",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f31265d0f25afb",
+            "id": "c9375d91ec27857a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hugo 创建Blog 并托管到github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,19 +101,18 @@
             }
           },
           {
-            "id": "df317cede5ebeb78",
+            "id": "862ecbd6c2d00280",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hugo 创建Blog 并托管到github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8208d4d5b3ed2991",
+            "id": "5ce7cae1fd976e4b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,23 +123,11 @@
             }
           },
           {
-            "id": "80af5d79e0e17c21",
+            "id": "ab9c8783f9eb5425",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hugo 创建Blog 并托管到github.md"
-              }
-            }
-          },
-          {
-            "id": "c5cabbb96c46ec21",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,16 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f07806f10ede103",
+  "active": "731963d8e22cd0ee",
   "lastOpenFiles": [
-    "hugo 创建Blog 并托管到github.md",
-    "MEGA-RECOVERYKEY.canvas",
-    "Blog/未命名.canvas",
-    "Blog/未命名 1.canvas",
-    "Blog/未命名 2.canvas",
-    "Blog/企业家精神.md",
-    "Chrome Clippings.md",
-    "Blog",
-    "MEGA-RECOVERYKEY.txt"
+    "图书插件/template.md",
+    "图书插件/AllBooks.md"
   ]
 }
