@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "035d61304af13bcb",
+            "id": "5f46c7b44b95b41e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -31,12 +31,12 @@
             }
           },
           {
-            "id": "eeed58f5bbcbb97f",
+            "id": "8a4a4b423b2cf00d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "思想市场一词的出现.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -145,13 +145,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "88a3c37d8c5dc758",
@@ -167,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "思想市场一词的出现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "思想市场一词的出现.md"
               }
             }
           },
@@ -205,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "思想市场一词的出现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,11 +219,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,13 +240,19 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "card-board:CardBoard": false,
-      "notion-like-tables:Create new loom": false
+      "notion-like-tables:Create loom": false
     }
   },
-  "active": "eeed58f5bbcbb97f",
+  "active": "8a4a4b423b2cf00d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "魔都，一老一幼的死，令我感慨良多。 2023-07-08.md",
+    "马云：大数据时代，计划经济将更优越.md",
+    "费孝通.md",
+    "vim编辑完之后无法切换到命令行模式.md",
+    "Templates/template.md",
     "Vi, Vim学习.md",
+    "技巧.md",
+    "Untitled.md",
     "政治制度中的“承继的原则（principle of succession）”.md",
     "iMages/Pasted image 20230926082657.png",
     "未命名.canvas",
@@ -261,10 +267,8 @@
     "202304061326.md",
     "202303312108.md",
     "202303312107.md",
-    "魔都，一老一幼的死，令我感慨良多。 2023-07-08.md",
     "定义.md",
     "思想市场一词的出现.md",
-    "费孝通.md",
     "约瑟夫•孔苏思（Joseph Konsuth）的作品《一把椅子和三把椅子》.md",
     "未命名 19.canvas",
     "未命名 1.canvas",
@@ -279,10 +283,6 @@
     "护眼色背景.md",
     "文化自觉.md",
     "文化定义.md",
-    "微博手机注册.md",
-    "张维迎 企业家精神笔记.md",
-    "基于 赫 尔 曼 模型 的 项目 平衡 计分 卡  詹姆斯·刘易斯(James P. Lewis). 项目计划、进度与控制(原书第5版) (Kindle位置1201). 机械工业出版社. Kindle 版本..md",
-    "反抗身份 书单.md",
     "未命名 26.canvas",
     "Untitled.loom",
     "iMages/image00213.jpeg",
