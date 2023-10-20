@@ -14,17 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "731963d8e22cd0ee",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "图书插件/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "图书插件/template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "图书插件/template.md"
+              }
             }
           }
         ]
@@ -147,9 +142,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "731963d8e22cd0ee",
+  "active": "ebccaef004b412ed",
   "lastOpenFiles": [
-    "图书插件/template.md",
-    "图书插件/AllBooks.md"
+    "图书插件/AllBooks.md",
+    "图书插件/template.md"
   ]
 }
