@@ -1,0 +1,18 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "vimMode": false,
+  "rightToLeft": false,
+  "newFileLocation": "current",
+  "defaultViewMode": "source",
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "iMages",
+  "newFileFolderPath": "",
+  "promptDelete": false
+}

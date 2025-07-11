@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "aa2795c8dc6029d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6beb010208b00863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a61c678ca6fa29",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vi, Vim学习.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ee9da99a9842416b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "iMages/image00213.jpeg"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d446d92502755fec",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc5152defeb1dd89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bae1cc9b88994c82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16943578f6528847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考/道路问题是基本问题.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4713186672dca18e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entrepreneurship/Podcast-2023-06-12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b5857e78c493df1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c83ad54ece18101",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d39220fad2a64bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIVA/备课/案例研究/案例研究设计与方法/第三章 实施案例研究：收集资料的准备.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cd93f0100b06533",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Timothy_Snyder",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "997566031dafe153",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "88a3c37d8c5dc758",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc3e5b9606ef171e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccddeebd385937e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "iMages/image00213.jpeg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6b75eb93f2d03395",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "iMages/image00213.jpeg"
+              }
+            }
+          },
+          {
+            "id": "3dce905f427ca00d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e34ade85029a0ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "iMages/image00213.jpeg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "201fc28fb75dcdbe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "card-board:CardBoard": false,
+      "notion-like-tables:Create loom": false
+    }
+  },
+  "active": "ee9da99a9842416b",
+  "lastOpenFiles": [
+    "1a3c1ce8fe87d2c875ea70bd63320cb.png",
+    "8-Point Checklist for Revision名.md",
+    "AllBooks.md",
+    "Python 笔记.md",
+    "github.md",
+    "template.md",
+    "Untitled.md",
+    "Untitled.loom",
+    "未命名.canvas",
+    "Vi, Vim学习.md",
+    "配置.md",
+    "马云论大数据与计划经济.md",
+    "马云：大数据时代，计划经济将更优越.md",
+    "思想市场一词的出现.md",
+    "魔都，一老一幼的死，令我感慨良多。 2023-07-08.md",
+    "费孝通.md",
+    "vim编辑完之后无法切换到命令行模式.md",
+    "Templates/template.md",
+    "技巧.md",
+    "政治制度中的“承继的原则（principle of succession）”.md",
+    "iMages/Pasted image 20230926082657.png",
+    "iMages/Pasted image 20230917170330.png",
+    "2023-04-06.md",
+    "202305041408.md",
+    "202309100855.md",
+    "202302121851.md",
+    "2023-02-12.md",
+    "202304061326.md",
+    "202303312108.md",
+    "202303312107.md",
+    "未命名 19.canvas",
+    "未命名 1.canvas",
+    "未命名 17.canvas",
+    "未命名 24.canvas",
+    "未命名 11.canvas",
+    "未命名 6.canvas",
+    "未命名 2.canvas",
+    "未命名 7.canvas",
+    "未命名 26.canvas",
+    "iMages/image00213.jpeg",
+    "z_Attachs/Pasted image 20220625082953.png",
+    "iMages/基于赫尔曼模型的项目平衡计分卡.png",
+    "iMages/填完整的心形符号.png",
+    "iMages/人工智能的定义.png",
+    "z_Attachs/Pasted image 20230209212427.png",
+    "z_Attachs/Pasted image 20220801103446.png",
+    "z_Attachs",
+    "New folder",
+    "Templates/douban.js",
+    "Templates",
+    "douban.js",
+    "SIVA/毕业论文辅导/2019级/李京",
+    "SIVA/毕业论文辅导/2019级",
+    "SIVA/毕业论文辅导",
+    "SIVA"
+  ]
+}

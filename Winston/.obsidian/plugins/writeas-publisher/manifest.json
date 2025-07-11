@@ -1,0 +1,10 @@
+{
+	"id": "writeas-publisher",
+	"version": "1.0.2",
+	"name": "Writeas Blog Publisher",
+	"minAppVersion": "0.15.0",
+	"description": "Publish your notes to write.as",
+	"author": "encima",
+	"authorUrl": "https://github.com/encima/obsidian-writeas-plugin",
+	"isDesktopOnly": false
+}

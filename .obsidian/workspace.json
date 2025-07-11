@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "6d1c6125edb53737",
+    "type": "split",
+    "children": [
+      {
+        "id": "c609ec8b7f2a0679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b75b0d7c50ffb61",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86a1cb4ad88690ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e93c94ac336115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48d7a41c96c81aa3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "654b72fda33ffeb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f59b888c3c080d3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7b65aa5c37c3ebf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4231b46076b75de1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a0acc3e77102cf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Add_on/图书插件/AllBooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40a958a6df8a6911",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Add_on/图书插件/AllBooks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4946be381801534d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d5c7f4691ddd002",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Add_on/图书插件/AllBooks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "48d7a41c96c81aa3",
+  "lastOpenFiles": [
+    "Add_on/图书插件/template.md",
+    "Add_on/图书插件/AllBooks.md",
+    "README.md",
+    "Winston/张思之的反思.md",
+    "Winston/z_Attachs/Pasted image 20220625082953.png",
+    "Workroom/Siva/Course_Siva/备课手记/创意与文化策划/课程系统——创意与文化策划.md",
+    "Workroom/Siva/读书会介绍.md",
+    "Workroom/Siva/Course_Siva/备课手记/文化产业经典案例分析/苹果硬件订阅收费计划.md",
+    "Workroom/Siva/Course_Siva/备课手记/文化产业经典案例分析/拼多的外围战略.md",
+    "cyberinfo/MEGA-RECOVERYKEY.canvas",
+    "cyberinfo/hugo 创建Blog 并托管到github.md",
+    "cyberinfo/Chrome Clippings.md"
+  ]
+}

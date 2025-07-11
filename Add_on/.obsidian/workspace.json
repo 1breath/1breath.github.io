@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "83dd147baf1b7180",
+    "type": "split",
+    "children": [
+      {
+        "id": "1de9d1c467a6313c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d5abdd6efbf1779",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42adee0f2685c7dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0ecd3d1d585a087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebccaef004b412ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a8804851b17e849",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dea0e9cfd15eb883",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2ce204952c24d40",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa8cb2bc40d898d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9375d91ec27857a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "图书插件/template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "862ecbd6c2d00280",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "图书插件/template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ce7cae1fd976e4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab9c8783f9eb5425",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "图书插件/template.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ebccaef004b412ed",
+  "lastOpenFiles": [
+    "图书插件/AllBooks.md",
+    "图书插件/template.md"
+  ]
+}
