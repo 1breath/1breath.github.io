@@ -1,0 +1,5 @@
+baseURL = "https://1breath.github.io/"
+languageCode = 'zh-cn'
+title = 'One Breath'
+theme = 'LoveIt'
+
