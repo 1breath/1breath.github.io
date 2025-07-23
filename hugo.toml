@@ -1,7 +1,7 @@
 # 网站地址
 baseURL = "https://1breath.github.io/"
 
-# config.toml
+# 生成输出的文件至docs
 publishDir = "docs"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
