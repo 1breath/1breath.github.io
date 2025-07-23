@@ -1,0 +1,9 @@
+.
+├── archetypes: default.md是生成博文的模版
+├── assets # 存放被 Hugo Pipes 处理的文件
+├── content # 存放markdown文件作为博文内容
+├── data # 存放 Hugo 处理的数据
+├── layouts # 存放布局文件
+├── static # 存放静态文件 图片 CSS JS文件
+├── themes: 存放不同的主题
+└── config.toml: 博客配置文件支持 JSON YAML TOML 三种格式配置文件
