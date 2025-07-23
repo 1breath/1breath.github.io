@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>日志 - Category - One Breath</title>
+        <link>https://1breath.github.io/categories/%E6%97%A5%E5%BF%97/</link>
+        <description>日志 - Category - One Breath</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 14 Aug 2023 23:24:12 &#43;0800</lastBuildDate><atom:link href="https://1breath.github.io/categories/%E6%97%A5%E5%BF%97/" rel="self" type="application/rss+xml" /><item>
+    <title>漫漫博客路</title>
+    <link>https://1breath.github.io/posts/%E6%BC%AB%E6%BC%AB%E5%8D%9A%E5%AE%A2%E8%B7%AF/</link>
+    <pubDate>Mon, 14 Aug 2023 23:24:12 &#43;0800</pubDate>
+    <author>Aston</author>
+    <guid>https://1breath.github.io/posts/%E6%BC%AB%E6%BC%AB%E5%8D%9A%E5%AE%A2%E8%B7%AF/</guid>
+    <description><![CDATA[起念已久 是念，如是：拥有一个不会轻易被404或消失的空间，道出一时所思、所想、所念，与人交流，与己交流。籍此，或可正精进，或可防痴戒顽，播洒]]></description>
+</item>
+</channel>
+</rss>
