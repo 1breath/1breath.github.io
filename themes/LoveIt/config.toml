@@ -6,7 +6,7 @@
 [params]
   # site default theme ["auto", "light", "dark"]
   # 网站默认主题 ["auto", "light", "dark"]
-  defaultTheme = "auto"
+  defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
   gitRepo = ""
@@ -161,7 +161,7 @@ hasCJKLanguage = true
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "Zero Degree"
+    title = "One Breath"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
@@ -441,10 +441,18 @@ hasCJKLanguage = true
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
-        enable = false
+              enable = false
         # Disqus shortname to use Disqus in posts
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
         shortname = ""
+      # gutterances comment config  https://utteranc.es/
+      # ## 配置 utteranc评论,教程参考 https://utteranc.es/
+      [params.comment]
+        enable = true  # 开启 utterances 功能
+        Repo = "1breath/1breath-comments"  # 例如 "1breath/myblog-comments"
+        IssueTerm = "pathname" # 或 "title"，这决定了如何将博客文章映射到 GitHub Issue
+        Label = "comment" # 可选，为评论 Issue 添加标签
+        Theme = "github-light"
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
