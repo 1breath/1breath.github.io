@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>反思 - Category - One Breath</title>
-        <link>1breath.github.io/categories/%E5%8F%8D%E6%80%9D/</link>
+        <link>//localhost:1313/categories/%E5%8F%8D%E6%80%9D/</link>
         <description>反思 - Category - One Breath</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>stonezhcy@gmail.com (Aston)</managingEditor>
-            <webMaster>stonezhcy@gmail.com (Aston)</webMaster><lastBuildDate>Mon, 11 Aug 2025 22:19:02 &#43;0800</lastBuildDate><atom:link href="1breath.github.io/categories/%E5%8F%8D%E6%80%9D/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>stonezhcy@gmail.com (Aston)</webMaster><lastBuildDate>Mon, 11 Aug 2025 22:19:02 &#43;0800</lastBuildDate><atom:link href="//localhost:1313/categories/%E5%8F%8D%E6%80%9D/" rel="self" type="application/rss+xml" /><item>
     <title>燃于心头的煤气灯</title>
-    <link>1breath.github.io/posts/%E7%87%83%E4%BA%8E%E5%BF%83%E5%A4%B4%E7%9A%84%E7%85%A4%E6%B0%94%E7%81%AF/</link>
+    <link>//localhost:1313/posts/%E7%87%83%E4%BA%8E%E5%BF%83%E5%A4%B4%E7%9A%84%E7%85%A4%E6%B0%94%E7%81%AF/</link>
     <pubDate>Mon, 11 Aug 2025 22:19:02 &#43;0800</pubDate>
     <author>Aston</author>
-    <guid>1breath.github.io/posts/%E7%87%83%E4%BA%8E%E5%BF%83%E5%A4%B4%E7%9A%84%E7%85%A4%E6%B0%94%E7%81%AF/</guid>
+    <guid>//localhost:1313/posts/%E7%87%83%E4%BA%8E%E5%BF%83%E5%A4%B4%E7%9A%84%E7%85%A4%E6%B0%94%E7%81%AF/</guid>
     <description><![CDATA[<p>   煤气灯效应（gaslighting）是《韦氏词典》2022年选定的年度词汇。它越来越常见……</p>
 <h3 id="久违了的煤气灯">久违了的煤气灯</h3>
 <p>   大约20世纪80年代，在中国一些乡村，煤气灯仍是优选的照明工具。它的亮度煤油灯比不了，人们多半不舍得用的40瓦白炽电灯也相形见绌。夜晚在院子里点燃后，它发出白花花的光，整个院子一下子变得透亮起来。随着电灯的普及，煤气灯已经很难看到了，煤气灯这个词也逐渐沉没于记忆之海的深处。2022年，著名的韦氏词典将”煤气灯效应”列为年度词汇。据统计，当年度“煤气灯效应”相关的搜索量相较于上年增长了1740%，也就是2021年的17.4倍。煤气灯以另一个身份走进了当代人的视野。</p>
@@ -35,10 +35,10 @@
 </item>
 <item>
     <title>天地我最大</title>
-    <link>1breath.github.io/posts/%E5%A4%A9%E5%9C%B0%E6%88%91%E6%9C%80%E5%A4%A7/</link>
+    <link>//localhost:1313/posts/%E5%A4%A9%E5%9C%B0%E6%88%91%E6%9C%80%E5%A4%A7/</link>
     <pubDate>Tue, 15 Aug 2023 20:08:03 &#43;0800</pubDate>
     <author>Aston</author>
-    <guid>1breath.github.io/posts/%E5%A4%A9%E5%9C%B0%E6%88%91%E6%9C%80%E5%A4%A7/</guid>
+    <guid>//localhost:1313/posts/%E5%A4%A9%E5%9C%B0%E6%88%91%E6%9C%80%E5%A4%A7/</guid>
     <description><![CDATA[<p>​           <em><strong>I am a part of all that I have met——Alfred Tennyson，Ulysses</strong></em></p>
 <h3 id="坐井观天">坐井观天</h3>
 <p>　　坐井观天，把自己当成宇宙的中心，大概是人类最容易犯的错。它是难以抵挡的诱惑，也是醉人心脾的美酒。每个人都会不自觉地饮上一口，还要打心底赞叹自己与众不同的品味。</p>

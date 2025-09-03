@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>自省 - Tag - One Breath</title>
-        <link>1breath.github.io/tags/%E8%87%AA%E7%9C%81/</link>
+        <link>//localhost:1313/tags/%E8%87%AA%E7%9C%81/</link>
         <description>自省 - Tag - One Breath</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>stonezhcy@gmail.com (Aston)</managingEditor>
-            <webMaster>stonezhcy@gmail.com (Aston)</webMaster><lastBuildDate>Tue, 15 Aug 2023 20:08:03 &#43;0800</lastBuildDate><atom:link href="1breath.github.io/tags/%E8%87%AA%E7%9C%81/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>stonezhcy@gmail.com (Aston)</webMaster><lastBuildDate>Tue, 15 Aug 2023 20:08:03 &#43;0800</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%87%AA%E7%9C%81/" rel="self" type="application/rss+xml" /><item>
     <title>天地我最大</title>
-    <link>1breath.github.io/posts/%E5%A4%A9%E5%9C%B0%E6%88%91%E6%9C%80%E5%A4%A7/</link>
+    <link>//localhost:1313/posts/%E5%A4%A9%E5%9C%B0%E6%88%91%E6%9C%80%E5%A4%A7/</link>
     <pubDate>Tue, 15 Aug 2023 20:08:03 &#43;0800</pubDate>
     <author>Aston</author>
-    <guid>1breath.github.io/posts/%E5%A4%A9%E5%9C%B0%E6%88%91%E6%9C%80%E5%A4%A7/</guid>
+    <guid>//localhost:1313/posts/%E5%A4%A9%E5%9C%B0%E6%88%91%E6%9C%80%E5%A4%A7/</guid>
     <description><![CDATA[<p>​           <em><strong>I am a part of all that I have met——Alfred Tennyson，Ulysses</strong></em></p>
 <h3 id="坐井观天">坐井观天</h3>
 <p>　　坐井观天，把自己当成宇宙的中心，大概是人类最容易犯的错。它是难以抵挡的诱惑，也是醉人心脾的美酒。每个人都会不自觉地饮上一口，还要打心底赞叹自己与众不同的品味。</p>
